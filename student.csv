@@ -1,4 +1,4 @@
-Student_id,Name,DOB,Age,English,Tamil,Maths,Science
+Student_Name,Name,DOB,Age,English,Tamil,Maths,Science
 1,John Doe,2000-01-15,23,65.50,45.25,78.00,88.75
 2,Jane Smith,2001-03-20,22,79.25,55.00,68.50,91.75
 3,Michael Johnson,1999-05-10,24,90.75,32.25,85.50,60.00
